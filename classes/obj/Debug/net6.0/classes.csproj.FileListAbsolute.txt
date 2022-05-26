@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\classes\bin\Debug\net6.0\classes.exe
+D:\Study Materials\dot net\classes\bin\Debug\net6.0\classes.deps.json
+D:\Study Materials\dot net\classes\bin\Debug\net6.0\classes.runtimeconfig.json
+D:\Study Materials\dot net\classes\bin\Debug\net6.0\classes.dll
+D:\Study Materials\dot net\classes\bin\Debug\net6.0\classes.pdb
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\classes.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\classes.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\classes.AssemblyInfo.cs
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\classes.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\classes.dll
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\refint\classes.dll
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\classes.pdb
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\classes.genruntimeconfig.cache
+D:\Study Materials\dot net\classes\obj\Debug\net6.0\ref\classes.dll

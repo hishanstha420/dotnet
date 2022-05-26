@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\overriding.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\overriding.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\overriding.AssemblyInfo.cs
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\overriding.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\overriding\bin\Debug\net6.0\overriding.exe
+D:\Study Materials\dot net\overriding\bin\Debug\net6.0\overriding.deps.json
+D:\Study Materials\dot net\overriding\bin\Debug\net6.0\overriding.runtimeconfig.json
+D:\Study Materials\dot net\overriding\bin\Debug\net6.0\overriding.dll
+D:\Study Materials\dot net\overriding\bin\Debug\net6.0\overriding.pdb
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\overriding.dll
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\refint\overriding.dll
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\overriding.pdb
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\overriding.genruntimeconfig.cache
+D:\Study Materials\dot net\overriding\obj\Debug\net6.0\ref\overriding.dll

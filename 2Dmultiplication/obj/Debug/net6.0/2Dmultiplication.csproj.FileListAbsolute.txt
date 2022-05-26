@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\2Dmultiplication\bin\Debug\net6.0\2Dmultiplication.exe
+D:\Study Materials\dot net\2Dmultiplication\bin\Debug\net6.0\2Dmultiplication.deps.json
+D:\Study Materials\dot net\2Dmultiplication\bin\Debug\net6.0\2Dmultiplication.runtimeconfig.json
+D:\Study Materials\dot net\2Dmultiplication\bin\Debug\net6.0\2Dmultiplication.dll
+D:\Study Materials\dot net\2Dmultiplication\bin\Debug\net6.0\2Dmultiplication.pdb
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\2Dmultiplication.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\2Dmultiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\2Dmultiplication.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\2Dmultiplication.AssemblyInfo.cs
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\2Dmultiplication.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\2Dmultiplication.dll
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\refint\2Dmultiplication.dll
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\2Dmultiplication.pdb
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\2Dmultiplication.genruntimeconfig.cache
+D:\Study Materials\dot net\2Dmultiplication\obj\Debug\net6.0\ref\2Dmultiplication.dll

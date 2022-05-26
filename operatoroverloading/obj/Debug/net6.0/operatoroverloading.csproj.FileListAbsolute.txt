@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\operatoroverloading.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\operatoroverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\operatoroverloading.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\operatoroverloading.AssemblyInfo.cs
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\operatoroverloading.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\operatoroverloading\bin\Debug\net6.0\operatoroverloading.exe
+D:\Study Materials\dot net\operatoroverloading\bin\Debug\net6.0\operatoroverloading.deps.json
+D:\Study Materials\dot net\operatoroverloading\bin\Debug\net6.0\operatoroverloading.runtimeconfig.json
+D:\Study Materials\dot net\operatoroverloading\bin\Debug\net6.0\operatoroverloading.dll
+D:\Study Materials\dot net\operatoroverloading\bin\Debug\net6.0\operatoroverloading.pdb
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\operatoroverloading.dll
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\refint\operatoroverloading.dll
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\operatoroverloading.pdb
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\operatoroverloading.genruntimeconfig.cache
+D:\Study Materials\dot net\operatoroverloading\obj\Debug\net6.0\ref\operatoroverloading.dll

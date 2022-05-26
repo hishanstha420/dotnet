@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\class-with-enum.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\class-with-enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\class-with-enum.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\class-with-enum.AssemblyInfo.cs
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\class-with-enum.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\class-with-enum\bin\Debug\net6.0\class-with-enum.exe
+D:\Study Materials\dot net\class-with-enum\bin\Debug\net6.0\class-with-enum.deps.json
+D:\Study Materials\dot net\class-with-enum\bin\Debug\net6.0\class-with-enum.runtimeconfig.json
+D:\Study Materials\dot net\class-with-enum\bin\Debug\net6.0\class-with-enum.dll
+D:\Study Materials\dot net\class-with-enum\bin\Debug\net6.0\class-with-enum.pdb
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\class-with-enum.dll
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\refint\class-with-enum.dll
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\class-with-enum.pdb
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\class-with-enum.genruntimeconfig.cache
+D:\Study Materials\dot net\class-with-enum\obj\Debug\net6.0\ref\class-with-enum.dll

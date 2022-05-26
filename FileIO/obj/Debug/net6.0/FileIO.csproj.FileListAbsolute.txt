@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\FileIO.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\FileIO.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\FileIO.AssemblyInfo.cs
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\FileIO.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\FileIO\bin\Debug\net6.0\FileIO.exe
+D:\Study Materials\dot net\FileIO\bin\Debug\net6.0\FileIO.deps.json
+D:\Study Materials\dot net\FileIO\bin\Debug\net6.0\FileIO.runtimeconfig.json
+D:\Study Materials\dot net\FileIO\bin\Debug\net6.0\FileIO.dll
+D:\Study Materials\dot net\FileIO\bin\Debug\net6.0\FileIO.pdb
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\FileIO.dll
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\refint\FileIO.dll
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\FileIO.pdb
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\FileIO.genruntimeconfig.cache
+D:\Study Materials\dot net\FileIO\obj\Debug\net6.0\ref\FileIO.dll

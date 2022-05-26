@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\college-system.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\college-system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\college-system.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\college-system.AssemblyInfo.cs
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\college-system.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\college-system\bin\Debug\net6.0\college-system.exe
+D:\Study Materials\dot net\college-system\bin\Debug\net6.0\college-system.deps.json
+D:\Study Materials\dot net\college-system\bin\Debug\net6.0\college-system.runtimeconfig.json
+D:\Study Materials\dot net\college-system\bin\Debug\net6.0\college-system.dll
+D:\Study Materials\dot net\college-system\bin\Debug\net6.0\college-system.pdb
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\college-system.dll
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\refint\college-system.dll
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\college-system.pdb
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\college-system.genruntimeconfig.cache
+D:\Study Materials\dot net\college-system\obj\Debug\net6.0\ref\college-system.dll

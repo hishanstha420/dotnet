@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\Delegates\bin\Debug\net6.0\Delegates.exe
+D:\Study Materials\dot net\Delegates\bin\Debug\net6.0\Delegates.deps.json
+D:\Study Materials\dot net\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+D:\Study Materials\dot net\Delegates\bin\Debug\net6.0\Delegates.dll
+D:\Study Materials\dot net\Delegates\bin\Debug\net6.0\Delegates.pdb
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\Delegates.dll
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\Delegates.pdb
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+D:\Study Materials\dot net\Delegates\obj\Debug\net6.0\ref\Delegates.dll

@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\struct.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\struct.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\struct.AssemblyInfo.cs
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\struct.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\struct\bin\Debug\net6.0\struct.exe
+D:\Study Materials\dot net\struct\bin\Debug\net6.0\struct.deps.json
+D:\Study Materials\dot net\struct\bin\Debug\net6.0\struct.runtimeconfig.json
+D:\Study Materials\dot net\struct\bin\Debug\net6.0\struct.dll
+D:\Study Materials\dot net\struct\bin\Debug\net6.0\struct.pdb
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\struct.dll
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\refint\struct.dll
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\struct.pdb
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\struct.genruntimeconfig.cache
+D:\Study Materials\dot net\struct\obj\Debug\net6.0\ref\struct.dll

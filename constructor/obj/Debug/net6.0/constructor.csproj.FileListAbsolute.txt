@@ -1,0 +1,15 @@
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\constructor.csproj.AssemblyReference.cache
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\constructor.AssemblyInfoInputs.cache
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\constructor.AssemblyInfo.cs
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\constructor.csproj.CoreCompileInputs.cache
+D:\Study Materials\dot net\constructor\bin\Debug\net6.0\constructor.exe
+D:\Study Materials\dot net\constructor\bin\Debug\net6.0\constructor.deps.json
+D:\Study Materials\dot net\constructor\bin\Debug\net6.0\constructor.runtimeconfig.json
+D:\Study Materials\dot net\constructor\bin\Debug\net6.0\constructor.dll
+D:\Study Materials\dot net\constructor\bin\Debug\net6.0\constructor.pdb
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\constructor.dll
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\refint\constructor.dll
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\constructor.pdb
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\constructor.genruntimeconfig.cache
+D:\Study Materials\dot net\constructor\obj\Debug\net6.0\ref\constructor.dll
