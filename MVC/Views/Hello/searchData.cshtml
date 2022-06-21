@@ -1,0 +1,25 @@
+@using WebApplicationGui.Classes;
+@model List<FamilyModel>
+    <table class="table">
+        <thead class="thead-dark table-bordered">
+            <tr>
+                <th>SN</th>
+                <th>Full Name</th>
+                <th>Gender</th>
+                <th>Age</th>
+                <th>Relation</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var f in Model)
+        {
+            <tr>
+                <td>@f.id</td>
+                <td>@f.fullName</td>
+                <td>@f.gender</td>
+                <td>@f.Age</td>
+                <td>@f.relation</td>
+            </tr>
+        }
+    </tbody>
+    </table>

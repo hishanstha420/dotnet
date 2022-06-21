@@ -1,0 +1,75 @@
+@{
+    ViewData["Title"] = "Add Data";
+}
+
+@using WebApplicationGui.Classes;
+
+<form method="Post" enctype="multipart/form-data" asp-controller="Hello" asp-action="GetData">
+    <table>
+        @* <tr>
+            <td>ID</td>
+            <td><input type="number" id="numid" name="numid"></td>
+            </tr> *@
+        <tr>
+            <td>Full Name</td>
+            <td><input type="text" id="txtFullName" name="txtFullName"></td>
+
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td>
+                <select name="txtGender" id="txtGender" runat="server">
+                    <option value="Male" selected="selected">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Age:</td>
+            <td><input type="number" id="numAge" name="numAge"></td>
+        </tr>
+
+        <tr>
+            <td>Relation:</td>
+            <td>
+                <select name="txtRelation" id="txtRelation" runat="server">
+                    <option value="0">Mother </option>
+                    <option value="1">Father</option>
+                    <option value="2">Brother</option>
+                    <option value="3">Sister</option>
+                    <option value="4">none</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Submit"></td>
+        </tr>
+    </table>
+
+</form>
+
+@model List<FamilyModel>
+<table class="table">
+    <thead class="thead-dark table-bordered">
+        <tr>
+            <th>SN</th>
+            <th>Full Name</th>
+            <th>Gender</th>
+            <th>Age</th>
+            <th>Relation</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var f in Model)
+        {
+            <tr>
+                <td>@f.id</td>
+                <td>@f.fullName</td>
+                <td>@f.gender</td>
+                <td>@f.Age</td>
+                <td>@f.relation</td>
+            </tr>
+        }
+    </tbody>
+</table>

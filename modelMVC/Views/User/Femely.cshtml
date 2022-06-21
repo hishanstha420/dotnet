@@ -1,0 +1,28 @@
+@model FamilyModel;
+@using (var form = Html.BeginForm("FemelyShow", "User", "Post"))
+{
+    <div>
+        @Html.LabelFor(m => m.id)
+        @Html.TextBoxFor(m => m.id)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.fullName)
+        @Html.TextBoxFor(m => m.fullName)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.gender)
+        @Html.DropDownListFor(m=>m.gender, new SelectList(Enum.GetValues(typeof(Gender))),"Select Gender")
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Age)
+        @Html.TextBoxFor(m=>m.Age)
+
+    </div>
+    <div>
+        @Html.LabelFor(m => m.relation)
+        @Html.DropDownListFor(m=>m.relation, new SelectList(Enum.GetValues(typeof(Relation))), "Select Relation")
+    </div>
+    <input type="submit" value="Submit" />
+}
