@@ -6,7 +6,7 @@ namespace modelMVC.Models
 
         public string fullName { get; set; } = "";
 
-        public Gender gender { get; set; } = Gender.male;
+        public string gender { get; set; } = "";
 
         public int Age { get; set; } = 0;
 
@@ -16,12 +16,12 @@ namespace modelMVC.Models
         {
             id = 0;
             fullName = "";
-            gender = Gender.male;
+            gender = "";
             Age = 0;
             relation = Relation.None;
         }
 
-        public FamilyModel(int iid, string sfullName, Gender sgender, int iage, Relation erelation)
+        public FamilyModel(int iid, string sfullName, string sgender, int iage, Relation erelation)
         {
             id = iid;
             fullName = sfullName;
@@ -46,10 +46,10 @@ namespace modelMVC.Models
         Sister,
         None
     }
-    public enum Gender
-    {
-        male, female, Other
-    }
+    // public enum Gender
+    // {
+    //     male, female, Other
+    // }
 
 
 
