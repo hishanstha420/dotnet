@@ -12,7 +12,6 @@ namespace connectDatabase
             switch (switch_on)
             {
                 case 1:
-                    Console.WriteLine("1. Insert");
                     //var sql2 = "INSERT INTO address_book (Id, Full_Name, Email, Phone) VALUES (null, 'Hishan Shrestha', 'hishanshrestha29@gmail.com','9823715263')";
 
                     var sql2 = "INSERT INTO address_book (Id, Full_Name, Email, Phone) VALUES (null, @Full_Name, @Email, @Phone)";
