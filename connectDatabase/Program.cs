@@ -44,7 +44,7 @@ namespace connectDatabase
 
                 while (reader.Read())
                 {
-                    Console.WriteLine(reader[0] + "--" + reader[1] + " " + reader[2] + " " + reader[3]);
+                    Console.WriteLine(reader[0] + "--" + reader[1] + "-- " + reader[2] + "-- " + reader[3]);
                 }
                 reader.Close();
             }
