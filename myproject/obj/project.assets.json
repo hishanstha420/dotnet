@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hisha\\.nuget\\packages\\": {}
+    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study Materials\\dot net\\myproject\\my project.csproj",
+      "projectUniqueName": "e:\\Study\\dot net\\myproject\\my project.csproj",
       "projectName": "my project",
-      "projectPath": "D:\\Study Materials\\dot net\\myproject\\my project.csproj",
-      "packagesPath": "C:\\Users\\hisha\\.nuget\\packages\\",
-      "outputPath": "D:\\Study Materials\\dot net\\myproject\\obj\\",
+      "projectPath": "e:\\Study\\dot net\\myproject\\my project.csproj",
+      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "outputPath": "e:\\Study\\dot net\\myproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hisha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

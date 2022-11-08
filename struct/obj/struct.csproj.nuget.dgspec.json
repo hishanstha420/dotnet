@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study Materials\\dot net\\struct\\struct.csproj": {}
+    "e:\\Study\\dot net\\struct\\struct.csproj": {}
   },
   "projects": {
-    "D:\\Study Materials\\dot net\\struct\\struct.csproj": {
+    "e:\\Study\\dot net\\struct\\struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study Materials\\dot net\\struct\\struct.csproj",
+        "projectUniqueName": "e:\\Study\\dot net\\struct\\struct.csproj",
         "projectName": "struct",
-        "projectPath": "D:\\Study Materials\\dot net\\struct\\struct.csproj",
-        "packagesPath": "C:\\Users\\hisha\\.nuget\\packages\\",
-        "outputPath": "D:\\Study Materials\\dot net\\struct\\obj\\",
+        "projectPath": "e:\\Study\\dot net\\struct\\struct.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "e:\\Study\\dot net\\struct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hisha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
